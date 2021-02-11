@@ -1,0 +1,13 @@
+name: VDVAR20
+version: 0.0.1
+description: dart project for exercizing performing visualizations
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dev_dependencies:
+  build_runner: ^1.7.1
+  build_web_compilers: 2.12.2 #2.12.2
+  http: ^0.12.0
+  modern_charts: ^0.1.19
+  csv: ^4.1.0

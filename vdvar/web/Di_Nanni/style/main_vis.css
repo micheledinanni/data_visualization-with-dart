@@ -1,0 +1,26 @@
+body {
+    background-color: #b8b8b8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 1.2em;
+    margin: 15px;
+}
+
+div.relative {
+    position: relative;
+    /*border: 1px solid red;*/
+    /*border: 1px solid #73AD21;*/
+    /*font-size: 20px;*/
+    background: #6b6b6b;
+    padding: 1px;
+    margin: 1px;
+}
+
+canvas.overlay{
+    border: none;
+    /*border: solid thin blue;*/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
